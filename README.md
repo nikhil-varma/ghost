@@ -1,0 +1,1 @@
+Light weight event handling library which allows you to publish and subscribe to multiple events.
